@@ -1,0 +1,61 @@
+2026-11-22 18:02:46.232 [info] [Main] [node-compile-cache] main: packaged cache enabled (status: enabled, configured: C:\Users\Asus\AppData\Local\Programs\Microsoft VS Code\8a14f0cc1b\resources\app\node-compile-cache\main, active: C:\Users\Asus\AppData\Local\Programs\Microsoft VS Code\8a14f0cc1b\resources\app\node-compile-cache\main\v24.22.1-x64-d4bb394e)
+2026-11-22 18:02:46.236 [info] [Main] StorageMainService: creating application shared storage
+2026-11-22 18:02:46.371 [info] [Main] [shared storage] Creating shared storage database at 'c:\Users\Asus\.vscode-shared\sharedStorage\state.vscdb' (wasCreated: false)
+2026-11-22 18:02:46.371 [info] [Main] [shared storage] Initializing fallback application storage (path: c:\Users\Asus\AppData\Roaming\Code\User\globalStorage\state.vscdb)
+2026-11-22 18:02:46.392 [info] [Main] [shared storage] Fallback application storage initialized with 121 items
+2026-11-22 18:02:46.917 [info] [Main] update#setState idle
+2026-11-22 18:02:46.955 [info] [Main] AgentHostProcessManager: agent host started
+2026-11-22 18:02:49.897 [error] [Main] [AgentHost:stderr] (node:15688) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+
+2026-11-22 18:03:16.941 [info] [Main] update#setState checking for updates
+2026-11-22 18:03:17.228 [info] [Main] update#setState idle
+2026-11-22 19:48:22.008 [info] [Main] update#setState checking for updates
+2026-11-22 20:48:29.579 [info] [Main] update#setState idle
+2026-11-22 21:48:29.495 [info] [Main] update#setState checking for updates
+2026-11-22 21:48:29.715 [error] [Main] #4: https://update.code.visualstudio.com/api/update/win32-x64-user/stable/8a14f0cc1b08d531eb83255ea3764ae22aa932b5?bg=true&u=none - error undefined net::ERR_NETWORK_IO_SUSPENDED
+2026-11-22 21:48:35.958 [error] [Main] Error: net::ERR_NETWORK_IO_SUSPENDED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:139478)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2026-11-22 21:48:35.961 [info] [Main] update#setState idle
+2026-11-22 21:48:35.963 [warning] [Main] No ptyHost heartbeat after 6 seconds
+2026-11-22 21:56:59.253 [warning] [Main] No ptyHost heartbeat after 6 seconds
+2026-11-22 21:57:38.890 [warning] [Main] No ptyHost heartbeat after 6 seconds
+2026-11-22 22:48:29.507 [info] [Main] update#setState checking for updates
+2026-11-22 22:48:30.706 [info] [Main] update#setState idle
+2026-11-22 23:49:04.171 [info] [Main] update#setState checking for updates
+2026-11-22 23:49:07.473 [info] [Main] update#setState idle
+2026-11-23 06:24:31.555 [warning] [Main] No ptyHost heartbeat after 6 seconds
+2026-11-23 06:24:31.559 [info] [Main] update#setState checking for updates
+2026-11-23 06:24:31.633 [error] [Main] #7: https://update.code.visualstudio.com/api/update/win32-x64-user/stable/8a14f0cc1b08d531eb83255ea3764ae22aa932b5?bg=true&u=none - error undefined net::ERR_NETWORK_IO_SUSPENDED
+2026-11-23 06:24:31.635 [error] [Main] Error: net::ERR_NETWORK_IO_SUSPENDED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:139478)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2026-11-23 06:24:31.637 [info] [Main] update#setState idle
+2026-11-23 21:22:59.129 [info] [Main] update#setState checking for updates
+2026-11-23 21:22:59.138 [error] [Main] #8: https://update.code.visualstudio.com/api/update/win32-x64-user/stable/8a14f0cc1b08d531eb83255ea3764ae22aa932b5?bg=true&u=none - error undefined net::ERR_NETWORK_IO_SUSPENDED
+2026-11-23 21:22:59.139 [error] [Main] Error: net::ERR_NETWORK_IO_SUSPENDED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:139478)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2026-11-23 21:22:59.139 [info] [Main] update#setState idle
+2026-11-23 22:22:59.137 [info] [Main] update#setState checking for updates
+2026-11-23 22:23:00.053 [info] [Main] update#setState idle
+2026-11-23 23:22:59.142 [info] [Main] update#setState checking for updates
+2026-11-23 23:22:59.959 [info] [Main] update#setState idle
+2026-11-24 00:22:59.151 [info] [Main] update#setState checking for updates
+2026-11-24 00:23:00.047 [info] [Main] update#setState idle
+2026-11-24 01:26:44.114 [info] [Main] update#setState checking for updates
+2026-11-24 01:26:47.096 [info] [Main] update#setState idle
+2026-11-24 05:29:54.367 [info] [Main] update#setState checking for updates
+2026-11-24 05:29:54.396 [error] [Main] #13: https://update.code.visualstudio.com/api/update/win32-x64-user/stable/8a14f0cc1b08d531eb83255ea3764ae22aa932b5?bg=true&u=none - error undefined net::ERR_NETWORK_IO_SUSPENDED
+2026-11-24 05:29:54.398 [error] [Main] Error: net::ERR_NETWORK_IO_SUSPENDED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:139478)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2026-11-24 05:29:54.400 [info] [Main] update#setState idle
+2026-11-24 14:51:54.089 [warning] [Main] No ptyHost heartbeat after 6 seconds
+2026-11-24 14:51:54.091 [info] [Main] update#setState checking for updates
+2026-11-24 14:51:54.402 [error] [Main] #14: https://update.code.visualstudio.com/api/update/win32-x64-user/stable/8a14f0cc1b08d531eb83255ea3764ae22aa932b5?bg=true&u=none - error undefined net::ERR_NETWORK_IO_SUSPENDED
+2026-11-24 14:51:54.403 [error] [Main] Error: net::ERR_NETWORK_IO_SUSPENDED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:139478)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2026-11-24 14:51:54.403 [info] [Main] update#setState idle
